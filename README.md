@@ -20,7 +20,7 @@ También sale Glen Close, también sale Helena Bohn-Carter. Todo esto lo escribo
 cambio en el siguiente COMMIT, putas y maricones. Los bots estáis perdonados. Os programan putas o maricones. O subproductos de
 ellos automáticamente. Mi personaje favorito de los comics es el TUTOR LEGAL DEL **HOMBRE ARAñA**.
 
-Hoy es el día del 8 tumbado. La rima es muy fácil en castellano. En vasco, gallego, catalán, menorquín, valenciano, aragonés o suahili no sé.
+Hoy es el día de Billie Holiday, no, es de John Huston, por decisiones del pasado. Pero mi tiempo lo he dedicado a una de las voces más rebeldes y talentosas de la historia de entreguerras y guerra. Era una buena YONQUI. No como otros, que nosaben decir basta al PLASTIQUITO. ISLANDIA, LA GRACIOSA, O YO MISMO, pero yo soy un poco distinto. No me conformo con lo difícil. COMO TU PUTO MOVIL, que es mas complicado que el APOLLO DE TOM HANKS. METAFORICAMENTE HABLANDO.
 
 Es mir egal. Es el mejor eslógan de la historia. PUNTO.
 
