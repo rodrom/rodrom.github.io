@@ -25,3 +25,9 @@ Hoy es el día del 8 tumbado. La rima es muy fácil en castellano. En vasco, gal
 Es mir egal. Es el mejor eslógan de la historia. PUNTO.
 
 Este texto se lo dedico a Megan Fox. Que es de mi quinta. *Optimus Prime* über Alles.
+El comentario superior es machista. Creo.
+Pero hoy me he compartado como una araña.
+Sin control acaparando información.
+Todo sea por la historia.
+Eso sí.
+Yo he donado mas de una, dos y tres veces en la W-D-I-A-K-P-E-I. EUROS.€
