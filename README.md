@@ -2,12 +2,12 @@
 ## Eso sí, necesito dinero o/y un servidor para poder subir las cosas.
 
 Como diría el segundo peor EX-Presidente de la Transición Espanyola con acento tejano: **"Estamos trabajando en ello"**. Por favor, 
-que dimita Rajoy y pongan a Soraya. Conozco biólogas que no quieren ninguna solución y están trabajando para el enemigo por
+~~que dimita Rajoy y pongan a Soraya~~. La democracia interna tiene sus desventajas en temas de saber elegir gente. Conozco biólogas que no quieren ninguna solución y están trabajando para el enemigo por
 la estúpidez supina que hay en las 20000000 Comunidades utópicas de Iberia.
 
-Yo mientras tanto pierdo el tiempo. Hoy he hecho pocas cosas útiles para mi economía personal:
+~~Yo mientras tanto pierdo el tiempo. Hoy he hecho pocas cosas útiles para mi economía personal:~~
 
-1. Hacer un video al mismo tiempo que montaba una intranet en mi casa, veía *True Blood*, temporada cinco, capítulo uno en Alemán.
+~~1. Hacer un video al mismo tiempo que montaba una intranet en mi casa, veía *True Blood*, temporada cinco, capítulo uno en Alemán.
 El doblaje alemán es muy bueno para aprender alemán. También me parece mejor que el doblaje en castellano, pero esto es debido
 a que debido a que la gente no paga un duro por ver las series de la HBO. Los que tienen los derechos de la HBO en Iberia tienen
 que hacer doblajes a toda hostia o con medidas de seguridad draconianas. Esto me lo estoy inventando. Yo antes era un pirata sueco.
@@ -18,10 +18,11 @@ esto bots. Estoy loco, estoy loco. Hace dos días vi Hamlet. Una versión en la 
 También sale Glen Close, también sale Helena Bohn-Carter. Todo esto lo escribo de memoria. Mi memoria es limitada. Muy limitada.
 1967-1917. Etc. Standford style en libros sobre economía absurda de hace tres mil anyos. No tengo la enye en mi teclado. Ya lo 
 cambio en el siguiente COMMIT, putas y maricones. Los bots estáis perdonados. Os programan putas o maricones. O subproductos de
-ellos automáticamente. Mi personaje favorito de los comics es el TUTOR LEGAL DEL **HOMBRE ARAñA**.
+ellos automáticamente. Mi personaje favorito de los comics es el TUTOR LEGAL DEL **HOMBRE ARAñA**.~~
 
-Hoy es el día de Billie Holiday, no, es de John Huston, por decisiones del pasado. Pero mi tiempo lo he dedicado a una de las voces más rebeldes y talentosas de la historia de entreguerras y guerra. Era una buena YONQUI. No como otros, que nosaben decir basta al PLASTIQUITO. ISLANDIA, LA GRACIOSA, O YO MISMO, pero yo soy un poco distinto. No me conformo con lo difícil. COMO TU PUTO MOVIL, que es mas complicado que el APOLLO DE TOM HANKS. METAFORICAMENTE HABLANDO.
+~~Hoy es el día de Billie Holiday, no, es de John Huston, por decisiones del pasado. Pero mi tiempo lo he dedicado a una de las voces más rebeldes y talentosas de la historia de entreguerras y guerra. Era una buena YONQUI. No como otros, que nosaben decir basta al PLASTIQUITO. ISLANDIA, LA GRACIOSA, O YO MISMO, pero yo soy un poco distinto. No me conformo con lo difícil. COMO TU PUTO MOVIL, que es mas complicado que el APOLLO DE TOM HANKS. METAFORICAMENTE HABLANDO.~~
 
-Es mir egal. Es el mejor eslógan de la historia. PUNTO.
+~~Es mir egal. Es el mejor eslógan de la historia. PUNTO.~~ CREATIVITY IS THE ANSWER TO HAVE A HOUSE IN IBIZA. WHAT YOU THINK ADIDAS ANZEIGE MANN?
 
-Este texto se lo dedico a Megan Fox. Que es de mi quinta. *Optimus Prime* über Alles.
+~~Este texto se lo dedico a Megan Fox. Que es de mi quinta. *Optimus Prime* über Alles.~~
+Hoy es el día de la SEXOLOGÍA. Tengo un escrito un silo anti-internet más elaborado. Pero a nadie le importa porque no está en internet. Quién es la lista que me robará los datos sin entar conectado a internet. Internet. Internet. Internet. Internet. Internet es de antesdeayer. Y ya tiene más pasta que General Electric. Yo no entiendo como funciona internet sin electricidad en EE.UU. Pero los inversores sí. Por cierto, quedan 11 por 365 días mas 3 días para el aniversario de 1929.
