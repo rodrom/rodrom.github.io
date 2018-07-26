@@ -3,7 +3,7 @@ $ciudad = "Atenas";
 $país = "Grecia";
 $c = $ciudad;
 $adjetivo = "helenas";
-$adjetivo = $a;
+$a = $adjetivo;
 $lugar = "Rafina";
 $region = "Ática";
 $r = $region;
@@ -17,7 +17,7 @@ $columna = [
 	];
 $muertos = 74;
 $heridos = 180;
-$citas = [ "para rastrear toda huella de actividad sospechosa"]
+$citas = [ "para rastrear toda huella de actividad sospechosa"];
 ?>
 <!DOCTYPE html>
 <html lang="es">
