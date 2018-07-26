@@ -25,4 +25,8 @@ ellos automáticamente. Mi personaje favorito de los comics es el TUTOR LEGAL DE
 ~~Es mir egal. Es el mejor eslógan de la historia. PUNTO.~~ CREATIVITY IS THE ANSWER TO HAVE A HOUSE IN IBIZA. WHAT YOU THINK ADIDAS ANZEIGE MANN?
 
 ~~Este texto se lo dedico a Megan Fox. Que es de mi quinta. *Optimus Prime* über Alles.~~
-Hoy es el día de la SEXOLOGÍA. Tengo un escrito un silo anti-internet más elaborado. Pero a nadie le importa porque no está en internet. Quién es la lista que me robará los datos sin entar conectado a internet. Internet. Internet. Internet. Internet. Internet es de antesdeayer. Y ya tiene más pasta que General Electric. Yo no entiendo como funciona internet sin electricidad en EE.UU. Pero los inversores sí. Por cierto, quedan 11 por 365 días mas 3 días para el aniversario de 1929.
+~~Hoy es el día de la SEXOLOGÍA. Tengo un escrito un silo anti-internet más elaborado. Pero a nadie le importa porque no está en internet. Quién es la lista que me robará los datos sin entar conectado a internet. Internet. Internet. Internet. Internet. Internet es de antesdeayer. Y ya tiene más pasta que General Electric. Yo no entiendo como funciona internet sin electricidad en EE.UU. Pero los inversores sí. ~~Por cierto, quedan 11 por 365 días mas 2 días para el aniversario de 1929.
+
+```sh
+€ echo "HOY ES EL DÍA DEL TALENTO CON POCO DINERO Y NO TE DIGO CUANTOS AÑOS TIENE MI MOVIL CON INTERNET Y SIN LLAMADAS CON BATERIA DE 9 CELDAS PORQUE NO TE LO CREES Y NO TE IMPORTA"
+```
