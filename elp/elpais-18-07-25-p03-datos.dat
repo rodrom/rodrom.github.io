@@ -1,0 +1,35 @@
+mapa1 rectangular
+leyenda	Zonas afectadas por el fuego desde el 23 de julio
+Grecia
+	Grecia central	Mar egeo
+	egeo septentrional
+	*ática	atenas
+	Peloponeso
+escala: 10^5 m
+
+*mapa2 circular
+Grecia
+	ática
+		theologos	kimi
+		lebadea	chalcis aliveri
+		mandra	mati nea makri	rafina
+		egira	klato	corinto	argos	mandra	kineta
+		atenas
+		corinto	poros
+		EGINA KEA
+		IDRA
+escala: 2,5e4
+
+gráfico1: Superficie quemada en E. Países con mayores zonas afectadas en 2018
+Superficie (km²), Quemada (hectáreas), ~ 08-17
+Tu: 783562, 15497, 5000>x<10000
+RU: 242495, 13817, 0>x<5000
+SU: 447435, 13430, 0>x<5000
+IT: 301338, 5361, 20000>x<25000
+?: 505990, 3628, 30000>x<INFINITO
+FR: 643801, !, 0>x<5000
+IR: 70273, @, 0>x<5000
+GR: 131957, 1924, 5000>x<10000
+LE: 64589, ł, 0>x<5000
+AL: 357021, ŧ, 0>x<5000
+PO: 92212, 1327, 25000>x<30000
