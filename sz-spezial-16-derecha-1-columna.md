@@ -1,4 +1,4 @@
-﻿# Besser Online
+# Besser Online
 Amy Z. studiert am Computer Science and Artificial Intelligence Laboratory des Massachusetts Institute of Technology (MIT CSAIL) und nimmt diese Woche am HLF teil.
 **Warum haben sie für Informatik entscheiden?**
 Ich mag Informatik schon seit meiner Schulzeit, als ich entedckt habe, wie viel Spaß sie machen konnte und wie kreativ es war, Webseiten auf Geocities oder anderen Plattformen zu bauen. Danach wählte ich Informatik an der Uni, wusste aber bis zu meinem Abschlugssprojekt noch nicht, dass ich Forschung und vor allem mein aktuelles Forschungsbebiet so lieben würde, nämlich in das Erforschen und Gestalten von sozialem Austausch im Internet.
