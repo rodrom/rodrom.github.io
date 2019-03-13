@@ -1,6 +1,6 @@
 # Vota por un futuro sueco o hispalense
 ## Homenaje a Alfredo Landa e Ingmar Bergman.
-
+```poesíaLibre
 Buenas tardes, escribo desde el centro de Europa político.
 Soy un inmigrante oficial.
 Busco una Europa unida que evite errores pasados,
@@ -26,3 +26,4 @@ Y Facebook paga impuestos en Irlanda, como tantas otras.
 Si quieres una Europa justa.
 IGUALDAD DE TASAS Y REDISTRIBUCIÓN PARA LAS 27 NACIONES
 DE LOS OLIGOPOLIOS EXTRANJEROS EN EL MUNDO GLOBALIZADO.
+```
