@@ -1,5 +1,5 @@
-# I DON'T FOLLOW ORDERS. SPECIALLY IN GUIDELINES.
+# I FOLLOW ORDERS BEYOND BING-BANG BITCHES
+Follow the leader...
+Need Siemens to electroclash.
 
-THIS README IS NOTHING.
-Just a reminder of NOTHING.
-WHO IS ANTI-TURING?
+Waiting for the MIRACLE.
