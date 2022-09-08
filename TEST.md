@@ -2,6 +2,7 @@
 layout: page
 title: "Test"
 permalink: /test/
+theme: minima
 ---
 # Página de prueba
 
