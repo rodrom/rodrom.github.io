@@ -4,8 +4,8 @@
 # Site
 title: Rodrigo Román
 subtitle: Delivering End-to-End Fullstack Development for Your Business Needs
-description: technology, art, cinema, and whatever cross my mind, including work.
-keywords: technology, development, art, cinema, web, php, laravel, projects.
+description: Blog about technology, software crafting, and miscellanea.
+keywords: technology, development, web, php, laravel, virtualbox, linux
 author: Rodrigo Román
 language: en
 timezone: Europe/Berlin
@@ -25,7 +25,7 @@ public_dir: public
 tag_dir: tags
 archive_dir: archives
 category_dir: categories
-code_dir: downloads/code
+code_dir: examples/code
 i18n_dir: :lang
 skip_render:
 

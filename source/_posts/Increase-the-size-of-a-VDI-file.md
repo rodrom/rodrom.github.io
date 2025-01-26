@@ -11,7 +11,7 @@ date: 2025-01-08 20:54:45
 ---
 
 
-In this post, we are going to increase the size of the VDI file simulating the hard disk associate to one of our guest OS in VirutalBox.
+In this post, we are going to increase the size of the VDI file simulating the hard disk associate to one of our guest OS in VirutalBox.<!-- more -->
 
 ## What is the VDI file?
 

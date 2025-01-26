@@ -3,9 +3,10 @@ title: How to make accessible a site from the Guest OS to the Host OS with Virtu
 date: 2024-08-09 11:00:00
 tags: [virtualization, web, network]
 categories: development
+excerpt: In this post, we are going to explore how to make accessible a website that we are developing in the host OS (Windows 10) from the guest OS (Debian 11 Bullseye).
 ---
 
-In this post, we are going to explore how to make accessible a website that we are developing in the host OS from the guest OS (Debian 11 Bullseye).
+In this post, we are going to explore how to make accessible a website that we are developing in the host OS (Windows 10) from the guest OS (Debian 11 Bullseye).
  
 ## Stack and Configuration
 
