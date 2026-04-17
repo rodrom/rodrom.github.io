@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+
+Disallow: /fonts/
+
+Sitemap: https://rodrom.eu/sitemap.xml

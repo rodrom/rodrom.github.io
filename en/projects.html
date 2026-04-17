@@ -4,40 +4,59 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>rodrom.eu - Projects</title>
-    <link rel="stylesheet" href="../style.css">
+    <meta name="description" content="Projects of Rodrigo Román García, Freelance Fullstack Software Engineer">
+    <meta property="og:title" content="rodrom.eu - Rodrigo Román García - Projects and Tech Stack">
+    <meta property="og:description" content="Projects abd Tech Stack of Rodrigo Roman Portfolio e.g. Laravel, Vue, PHP ...">
+    <meta property="og:image" content="/img/tarjeta_presentacion_en.png">
+    <meta property="og:url" content="https://rodrom.eu/en/projects.html">
+    <link rel="stylesheet" href="/style.css">
+    <link rel="shortcut icon" href="/img/logo.svg" type="image/svg+xml">
+    <link rel="shortcut icon" href="/img/favicon.png" type="image/png" sizes="32x32">
+    <link rel="apple-touch-icon" sizes="180x180" href="/img/apple-touch-icon.png">
+    <link rel="alternate" hreflang="es" href="https://rodrom.eu/projects.html">
+    <link rel="alternate" hreflang="en" href="https://rodrom.eu/en/projects.html">
+    <link rel="alternate" hreflang="x-default" href="https://rodrom.eu/en/projects.html">
+    <link rel="canonical" href="https://rodrom.eu/en/projects.html">
 </head>
 <body>
     <header>
         <div class="header-logo">
-            <a href="index.html">
-                <img src="/img/logo.svg" width="100px" height="100px" alt="rodrom logo"></a>
+            <a href="/en/">
+                <img src="/img/logo.svg" width="100px" height="100px" alt="rodrom logo">
+            </a>
         </div>
         <div class="header-right">
             <div class="header-top">
-                <ul class="navbar">
-                    <li><a href="about.html">About me</a></li>
-                    <li><a href="projects.html">Projects</a></li>
-                    <li><a href="services.html">Services</a></li>
-                    <li><a href="contact.html">Contact</a></li>
-                </ul>
-                <ul class="external-sites">
-                    <li>
-                        <a href="../projects.html">Español</a>
-                    </li>
-                    <li>
-                        <a href="https://github.org/rodrom">
-                            <img src="/img/github_white.svg" alt="github logo" width="16px" height="16px">
-                        </a>
-                    </li>
-                    <li>
-                        <a href="https://www.linkedin.com/in/rodrigo-roman-garcia/">
-                            <img src="/img/linkedin-white.png" alt="linkedin logo" width="16px" height="16px">
-                        </a>
-                    </li>
-                </ul>
+                <button class="menu-toggle" aria-label="Open menu">
+                    ☰
+                </button>
+                <nav>
+                    <ul class="navbar">
+                        <li><a href="about.html">About me</a></li>
+                        <li><a href="projects.html">Projects</a></li>
+                        <li><a href="services.html">Services</a></li>
+                        <li><a href="contact.html">Contact</a></li>
+                    </ul>
+                    <ul class="external-sites">
+                        <li>
+                            <a href="/projects.html">Español</a>
+                        </li>
+                        <li>
+                            <a href="https://github.org/rodrom">
+                                <img src="/img/github_white.svg" alt="github logo" width="16px" height="16px">
+                            </a>
+                        </li>
+                        <li>
+                            <a href="https://www.linkedin.com/in/rodrigo-roman-garcia/">
+                                <img src="/img/linkedin-white.png" alt="linkedin logo" width="16px" height="16px">
+                            </a>
+                        </li>
+                    </ul>
+                </nav>
             </div>
             <div class="header-title">
-                Rodrigo Román Garcia - Software Engineer
+                <h2>Rodrigo Román García</h2>
+                <h3>Software Engineer</h3>
             </div>
         </div>
     </header>
@@ -46,7 +65,7 @@
 
         <h2>Administrative management system</h2>
         <p>
-            Over the last few years, I have developed a comprehensive administrative management system designed to manage enrolments, payments, courses, student allocation, the issuance of unique identification certificates, data analysis, speakers, collaborators and training levels, amongst other features, for <a href="https://iemdr.es">iemdr.es</a> and <a href="escuelaemdr.com">escuelaemdr.com</ a>. Another important aspect of this system is its communication capability via an API designed by me, to be integrated into the external billing and registration system used by client companies and utilised by the administrative system. This saves a great deal of manual work previously carried out by staff, where the dreaded Excel hell once reigned. Now everything is managed and accessed via the system I have created and continue to improve, which features a clear and efficient interface and a database tailored to the business logic of the client companies.
+            Over the last few years, I have developed a comprehensive administrative management system designed to manage enrolments, payments, courses, student allocation, the issuance of unique identification certificates, data analysis, speakers, collaborators and training levels, amongst other features, for <a href="https://iemdr.es">iemdr.es</a> and <a href="escuelaemdr.com">escuelaemdr.com</a>. Another important aspect of this system is its communication capability via an API designed by me, to be integrated into the external billing and registration system used by client companies and utilised by the administrative system. This saves a great deal of manual work previously carried out by staff, where the dreaded Excel hell once reigned. Now everything is managed and accessed via the system I have created and continue to improve, which features a clear and efficient interface and a database tailored to the business logic of the client companies.
         </p>
 
         <h2>Professional directory of therapists</h2>
@@ -104,3 +123,11 @@
     </footer>
 </body>
 </html>
+<script>
+  const toggle = document.querySelector('.menu-toggle');
+  const navbar = document.querySelector('.navbar');
+
+  toggle.addEventListener('click', () => {
+    navbar.classList.toggle('active');
+  });
+</script>

@@ -84,7 +84,7 @@ h1 {
 }
 
 h2 {
-    font-weight: 600;
+    font-weight: bold;
     font-size: 1.5rem;
 }
 
@@ -110,9 +110,24 @@ header {
     flex: 1;
 }
 
-.header-top {
+.header-right h2,
+.header-right h3
+{
+    font-size: 1rem;
+    font-weight: Bold;
+}
+
+nav {
     display: flex;
     justify-content: space-between;
+}
+
+.menu-toggle {
+    display: none;
+    font-size: 24px;
+    background: none;
+    border: none;
+    cursor: pointer;
 }
 
 .navbar,
@@ -130,8 +145,6 @@ footer > ul {
 }
 
 .header-title {
-    font-family: Montserrat, "DejaVu Sans", sans-serif;
-    font-size: 1.3rem;
     padding-top: 1rem;
 }
 
@@ -153,3 +166,27 @@ footer {
   gap: 0.2rem;
 }
 
+@media (max-width: 768px) {
+    .menu-toggle {
+        display: block;
+    }
+
+    .header-top {
+        flex-wrap: wrap;
+    }
+
+    .navbar {
+        display: none;
+        flex-direction: column;
+        width: 100%;
+        margin-top: 8px;
+    }
+
+    .navbar.active {
+        display: flex;
+    }
+
+    .external-sites {
+        margin-left: auto;
+    }
+}

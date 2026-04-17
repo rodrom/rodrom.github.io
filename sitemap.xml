@@ -1,0 +1,79 @@
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xhtml="http://www.w3.org/1999/xhtml">
+
+  <url>
+    <loc>https://rodrom.eu/</loc>
+
+    <xhtml:link rel="alternate" hreflang="es" href="https://rodrom.eu/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://rodrom.eu/en/"/>
+  </url>
+
+  <url>
+    <loc>https://rodrom.eu/en/</loc>
+
+    <xhtml:link rel="alternate" hreflang="es" href="https://rodrom.eu/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://rodrom.eu/en/"/>
+  </url>
+
+
+  <url>
+    <loc>https://rodrom.eu/about.html</loc>
+
+    <xhtml:link rel="alternate" hreflang="es" href="https://rodrom.eu/about.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://rodrom.eu/en/about.html"/>
+  </url>
+
+  <url>
+    <loc>https://rodrom.eu/en/about.html</loc>
+
+    <xhtml:link rel="alternate" hreflang="es" href="https://rodrom.eu/about.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://rodrom.eu/en/about.html"/>
+  </url>
+
+    <url>
+    <loc>https://rodrom.eu/contact.html</loc>
+
+    <xhtml:link rel="alternate" hreflang="es" href="https://rodrom.eu/contact.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://rodrom.eu/en/contact.html"/>
+  </url>
+
+  <url>
+    <loc>https://rodrom.eu/en/contact.html</loc>
+
+    <xhtml:link rel="alternate" hreflang="es" href="https://rodrom.eu/contact.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://rodrom.eu/en/contact.html"/>
+  </url>
+
+  <url>
+    <loc>https://rodrom.eu/projects.html</loc>
+
+    <xhtml:link rel="alternate" hreflang="es" href="https://rodrom.eu/projects.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://rodrom.eu/en/projects.html"/>
+  </url>
+
+  <url>
+    <loc>https://rodrom.eu/en/projects.html</loc>
+
+    <xhtml:link rel="alternate" hreflang="es" href="https://rodrom.eu/projects.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://rodrom.eu/en/projects.html"/>
+  </url>
+
+  <url>
+    <loc>https://rodrom.eu/services.html</loc>
+
+    <xhtml:link rel="alternate" hreflang="es" href="https://rodrom.eu/services.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://rodrom.eu/en/services.html"/>
+  </url>
+
+  <url>
+    <loc>https://rodrom.eu/en/services.html</loc>
+
+    <xhtml:link rel="alternate" hreflang="es" href="https://rodrom.eu/services.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://rodrom.eu/en/services.html"/>
+  </url>
+
+  <url>
+    <loc>https://rodrom.eu/impressum.html</loc>
+  </url>
+
+</urlset>

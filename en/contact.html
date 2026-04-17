@@ -4,40 +4,59 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>rodrom.eu - Contact</title>
-    <link rel="stylesheet" href="../style.css">
+    <meta name="description" content="Contact section of Rodrigo Román García´s Porfolio, Freelance Fullstack Software Engineer">
+    <meta property="og:title" content="rodrom.eu - Rodrigo Román García - Contact">
+    <meta property="og:description" content="Contact section of Rodrigo Roman Portfolio">
+    <meta property="og:image" content="/img/tarjeta_presentacion_en.png">
+    <meta property="og:url" content="https://rodrom.eu/en/contact.html">
+    <link rel="stylesheet" href="/style.css">
+    <link rel="shortcut icon" href="/img/logo.svg" type="image/svg+xml">
+    <link rel="shortcut icon" href="/img/favicon.png" type="image/png" sizes="32x32">
+    <link rel="apple-touch-icon" sizes="180x180" href="/img/apple-touch-icon.png">
+    <link rel="alternate" hreflang="es" href="https://rodrom.eu/contact.html">
+    <link rel="alternate" hreflang="en" href="https://rodrom.eu/en/contact.html">
+    <link rel="alternate" hreflang="x-default" href="https://rodrom.eu/en/contact.html">
+    <link rel="canonical" href="https://rodrom.eu/en/contact.html">
 </head>
 <body>
     <header>
         <div class="header-logo">
-            <a href="index.html">
-                <img src="/img/logo.svg" width="100px" height="100px" alt="rodrom logo"></a>
+            <a href="/en/">
+                <img src="/img/logo.svg" width="100px" height="100px" alt="rodrom logo">
+            </a>
         </div>
         <div class="header-right">
             <div class="header-top">
-                <ul class="navbar">
-                    <li><a href="about.html">About me</a></li>
-                    <li><a href="projects.html">Projects</a></li>
-                    <li><a href="services.html">Services</a></li>
-                    <li><a href="contact.html">Contact</a></li>
-                </ul>
-                <ul class="external-sites">
-                    <li>
-                        <a href="../contact.html">Español</a>
-                    </li>
-                    <li>
-                        <a href="https://github.org/rodrom">
-                            <img src="/img/github_white.svg" alt="github logo" width="16px" height="16px">
-                        </a>
-                    </li>
-                    <li>
-                        <a href="https://www.linkedin.com/in/rodrigo-roman-garcia/">
-                            <img src="/img/linkedin-white.png" alt="linkedin logo" width="16px" height="16px">
-                        </a>
-                    </li>
-                </ul>
+                <button class="menu-toggle" aria-label="Open menu">
+                    ☰
+                </button>
+                <nav>
+                    <ul class="navbar">
+                        <li><a href="about.html">About me</a></li>
+                        <li><a href="projects.html">Projects</a></li>
+                        <li><a href="services.html">Services</a></li>
+                        <li><a href="contact.html">Contact</a></li>
+                    </ul>
+                    <ul class="external-sites">
+                        <li>
+                            <a href="/contact.html">Español</a>
+                        </li>
+                        <li>
+                            <a href="https://github.org/rodrom">
+                                <img src="/img/github_white.svg" alt="github logo" width="16px" height="16px">
+                            </a>
+                        </li>
+                        <li>
+                            <a href="https://www.linkedin.com/in/rodrigo-roman-garcia/">
+                                <img src="/img/linkedin-white.png" alt="linkedin logo" width="16px" height="16px">
+                            </a>
+                        </li>
+                    </ul>
+                </nav>
             </div>
             <div class="header-title">
-                Rodrigo Román Garcia - Software Engineer
+                <h2>Rodrigo Román García</h2>
+                <h3>Software Engineer</h3>
             </div>
         </div>
     </header>
@@ -59,3 +78,11 @@
     </footer>
 </body>
 </html>
+<script>
+  const toggle = document.querySelector('.menu-toggle');
+  const navbar = document.querySelector('.navbar');
+
+  toggle.addEventListener('click', () => {
+    navbar.classList.toggle('active');
+  });
+</script>
