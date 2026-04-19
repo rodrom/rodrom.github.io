@@ -7,11 +7,35 @@
     padding: 0;
 }
 
+/* COLOR VARIABLES */
 :root {
   --color-text: #fff;
+  --color-links: #b38b8b;
   --color-bg: #292020;
 }
 
+/* DARK / LIGHT MODES */
+.logo-light {
+    display: none
+}
+
+@media (prefers-color-scheme: light) {
+    :root {
+          --color-text: #292020;
+          --color-links: #b38b8b;
+          --color-bg: #fff;
+    }
+
+    .logo-dark {
+        display: none;
+    }
+
+    .logo-light {
+        display: block;
+    }
+}
+
+/* FONTS */
 @font-face {
   font-family: "Rosario";
   src: url("/fonts/Rosario-Regular.woff2") format("woff2");
@@ -54,6 +78,8 @@
   font-style: italic;
 }
 
+/* CSS CUSTOM RULES */
+
 html {
     font-size: 16px;
     color-scheme: light dark;
@@ -90,7 +116,7 @@ h2 {
 
 a,
 a:visited {
-    color: #b38b8b;
+    color: var(--color-links);
     text-decoration: none;
 }
 
@@ -158,7 +184,6 @@ p {
 
 footer {
   padding: 2rem;
-  color: white;
   font-weight: 500;
   display: flex;
   justify-content: center;
